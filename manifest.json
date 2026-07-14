@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "Auto Calificador de Profesores",
+  "version": "1.0",
+  "description": "Automatiza la calificación de profesores en la página de tu universidad.",
+  "permissions": ["activeTab", "storage"],
+  "host_permissions": ["https://matricula.utp.ac.pa/*"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "images/icon16.png",
+      "48": "images/icon48.png",
+      "128": "images/icon128.png"
+    }
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://matricula.utp.ac.pa/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
