@@ -26,6 +26,12 @@ La idea es simple: guardar un preset con tus valores más usados y aplicarlo con
 
 ## Instalación
 
+### Chrome Web Store
+
+Instálala directamente desde la Chrome Web Store:
+
+https://chromewebstore.google.com/detail/cnbjfpohgijjclpedfnlpedmdllcoklc?utm_source=item-share-cb
+
 ### Opción manual
 
 1. Descarga o clona este repositorio.
