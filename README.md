@@ -28,6 +28,8 @@ La idea es simple: guardar un preset con tus valores más usados y aplicarlo con
 
 ### Chrome Web Store
 
+> **IMPORTANTE:** si instalaste la extensión mientras tenías la página de la U abierta, tienes que cerrarla y abrirla otra vez para que funcione.
+
 Instálala directamente desde la Chrome Web Store:
 
 https://chromewebstore.google.com/detail/cnbjfpohgijjclpedfnlpedmdllcoklc?utm_source=item-share-cb
@@ -39,8 +41,6 @@ https://chromewebstore.google.com/detail/cnbjfpohgijjclpedfnlpedmdllcoklc?utm_so
 3. Activa el modo desarrollador.
 4. Haz clic en **Cargar descomprimida**.
 5. Selecciona la carpeta del proyecto.
-
-> **IMPORTANTE:** si instalaste la extensión mientras tenías la página de la U abierta, tienes que cerrarla y abrirla otra vez para que funcione.
 
 ## Uso
 
