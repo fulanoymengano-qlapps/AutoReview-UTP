@@ -40,6 +40,8 @@ https://chromewebstore.google.com/detail/cnbjfpohgijjclpedfnlpedmdllcoklc?utm_so
 4. Haz clic en **Cargar descomprimida**.
 5. Selecciona la carpeta del proyecto.
 
+> **IMPORTANTE:** si instalaste la extensión mientras tenías la página de la U abierta, tienes que cerrarla y abrirla otra vez para que funcione.
+
 ## Uso
 
 El popup incluye estos controles:
